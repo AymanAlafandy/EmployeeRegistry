@@ -18,7 +18,8 @@ namespace EmployeeRegistry
 
         public override string ToString()
         {
-            return "Name: " + Name + ",  Salary: " + Salary;
+            return "Name : " + Name + ",  Salary: " + Salary;
         }
     }
 }
+

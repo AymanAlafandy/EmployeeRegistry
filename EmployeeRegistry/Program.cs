@@ -19,6 +19,7 @@ namespace EmployeeRegistry
             Console.WriteLine("====================");
             //registry.List();
             Console.WriteLine(registry);
+            Console.ReadLine();
 
         }
 
